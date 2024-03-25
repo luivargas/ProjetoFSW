@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: #28c82a;
+}
+
+footer {
+background-color: #28c82a;
+}
+
+footer .container {
+width: 100%;
+}
+
+.container{
+    padding-top: 1em;
+    padding-bottom: 1em;    
+}
